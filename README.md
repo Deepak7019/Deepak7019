@@ -1,11 +1,25 @@
-- 👋 Hi, I’m  Deepak
-- 👀 I’m interested in data sciecence and data Analytics
-- 🌱 I’m currently learning  python and machine learning
-- 💞️ I’m looking to collaborate on  building model
-- 📫 reach me though my email : deepakkumafoxi@gmail.com
-- 😄 Pronouns: he/she
-- 
-- ⚡ Fun fact: crazy about criket but bad at playing
+# Welcome to My GitHub Profile 👋
+
+## About Me
+Hello! I'm Deepak m , a passionate data science  based in banglore. I love coding and explorating in field of data science  and am always eager to learn new things.
+
+## Technologies & Tools
+- python
+- machine learning
+- ...
+
+## My Projects
+- [Project 1](link-to-project-1)
+- [Project 2](link-to-project-2)
+- ...
+
+## Contact Me
+- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
+- Twitter: [@YourTwitterHandle](link-to-twitter)
+
+Feel free to explore my repositories and connect with me!
+
+![Profile Image](link-to-image)
 
 <!---
 Deepak7019/Deepak7019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
