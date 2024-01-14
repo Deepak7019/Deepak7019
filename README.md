@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning  python and machine learning
 - 💞️ I’m looking to collaborate on  building model
 - 📫 reach me though my email : deepakkumafoxi@gmail.com
-- 😄 Pronouns: he?she
+- 😄 Pronouns: he/she
 - 
 - ⚡ Fun fact: crazy about criket but bad at playing
 
