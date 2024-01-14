@@ -6,7 +6,7 @@ Hello! I'm Deepak m , a passionate data science  based in banglore. I love codin
 ## Technologies & Tools
 - python
 - machine learning
-- ...
+
 
 ## My Projects
 - https://github.com/Deepak7019/car_price_prediction
@@ -18,7 +18,7 @@ Hello! I'm Deepak m , a passionate data science  based in banglore. I love codin
 
 Feel free to explore my repositories and connect with me!
 
-![Profile Image](https://www.istockphoto.com/photo/data-scientists-hand-of-programmer-touching-and-analyzing-development-at-various-gm1364317541-435566114?phrase=data+science&searchscope=image%2Cfilm)
+![Profile Image](https://www.vecteezy.com/photo/5442693-data-science-analytics-internet-and-technology-concept-concept)
 
 <!---
 Deepak7019/Deepak7019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
